@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 dev иоп╢╣д
 
 
 
 two day change
+=======
+dev О©╫О©╫п╢О©╫О©╫
+
+change the file after job
+>>>>>>> 06ae85b9aa96013827356c01a509e86bf1e9d21d
